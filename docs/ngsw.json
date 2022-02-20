@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1645365108609,
+  "timestamp": 1645366310041,
   "index": "https://github.com/KaungEainSanHtay/pwa-app/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://github.com/KaungEainSanHtay/pwa-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://github.com/KaungEainSanHtay/pwa-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://github.com/KaungEainSanHtay/pwa-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/KaungEainSanHtay/pwa-app/index.html": "31be3d828d8db1cbeb1265bdeed0e84bc577a57b",
+    "https://github.com/KaungEainSanHtay/pwa-app/index.html": "2894a85f5a24cf98104eada9fd09fef874d02089",
     "https://github.com/KaungEainSanHtay/pwa-app/main.9b83d52263409d8a9a63.js": "be721caa43e987a4a61477d08c8312d07f99db46",
     "https://github.com/KaungEainSanHtay/pwa-app/manifest.webmanifest": "4cf54d54f6fe4a0736380c580bb94cd9bd4b3215",
     "https://github.com/KaungEainSanHtay/pwa-app/polyfills.0a3e35adea7d54a1fe71.js": "18f6d7fe0c0e99a6790279956c5ad075c2f32408",
